@@ -6,7 +6,9 @@ Java classes for creating database, table, inserting values and querying on movi
 
 
 Following is the snippet of obtained output:
-![Screenshot (145)](https://user-images.githubusercontent.com/76611893/192004329-d0c2e938-9663-464b-badf-8de9c9f96ee8.png)
+
+![Screenshot (145)](https://user-images.githubusercontent.com/76611893/192004532-adcbfbd6-9378-4646-9b4e-513e9a6630ac.png)
+
 
 
 
