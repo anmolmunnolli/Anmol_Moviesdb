@@ -2,7 +2,8 @@
  Movies Database management using SQLite-JDBC driver
  
 Includes:
-Java classes for creating database, table, inserting values and querying on movie databse
+Java classes for creating database, table, inserting values and querying on movie databse.
+
 Pls find Java classes under the Anmolmov package in the src directory
 
 Following is the snippet of obtained output:
